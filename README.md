@@ -52,6 +52,14 @@ Create new PySpark Notebook in Azure Synapse Link, pointing to your linked Cosmo
 
 ---
 
+Execute the Notebook.
+
+<p align="center" width="95%">
+  <img src="img/synapse-initial-notebook-results.png">
+</p>
+
+---
+
 ## Deploying this Solution
 
 Assumptions:
