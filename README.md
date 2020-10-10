@@ -58,6 +58,26 @@
 
 ---
 
+#### Display the Schema of the Plants Data
+
+<p align="center" width="95%">
+  <img src="img/synapse-df-print-schema.png">
+</p>
+
+---
+
+#### Display the Schema of the Plants Data
+
+<p align="center" width="95%">
+  <img src="img/synapse-filter-recent-changes.png">
+</p>
+
+#### Useful Links
+
+- https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark
+
+---
+
 ## Deploying this Solution
 
 Assumptions:
@@ -76,7 +96,7 @@ Assumptions:
 Python3 is the client-side and Azure Function implementation language, and PySpark is used in Azure Synapse.
 
 The **pyenv** Python Version Management tool is used to manage Python versions and virtual environments;
-see the **pyenv.sh** shell scripts in this repo.
+see the **pyenv.sh** shell scripts in this repo.  See https://realpython.com/intro-to-pyenv/#installing-pyenv
 
 ### Provision Azure Resources
 
