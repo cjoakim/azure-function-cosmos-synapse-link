@@ -12,7 +12,7 @@ TODO
 
 ---
 
-Enable the Azure Synapse Link feature in your CosmosDB account.
+#### Enable the Azure Synapse Link feature in your CosmosDB account
 
 <p align="center" width="95%">
   <img src="img/enable-synapse-link-feature.png">
@@ -20,7 +20,7 @@ Enable the Azure Synapse Link feature in your CosmosDB account.
 
 ---
 
-Documents in CosmosDB after HTTP POSTing to the Azure Function.
+#### Documents in CosmosDB after HTTP POSTing to the Azure Function
 
 <p align="center" width="95%">
   <img src="img/documents-in-cosmosdb.png">
@@ -28,7 +28,7 @@ Documents in CosmosDB after HTTP POSTing to the Azure Function.
 
 ---
 
-Azure Synapse Welcome Page.
+#### Azure Synapse Welcome Page
 
 <p align="center" width="95%">
   <img src="img/synapse-workspace-welcome-screen.png">
@@ -36,7 +36,7 @@ Azure Synapse Welcome Page.
 
 ---
 
-Configure the Synapse Link connection to your CosmosDB database.
+#### Configure the Synapse Link connection to your CosmosDB database
 
 <p align="center" width="95%">
   <img src="img/synapse-create-linked-service.png">
@@ -44,7 +44,7 @@ Configure the Synapse Link connection to your CosmosDB database.
 
 ---
 
-Create new PySpark Notebook in Azure Synapse Link, pointing to your linked CosmosDB plants container.
+#### Create new PySpark Notebook in Azure Synapse Link, pointing to your linked CosmosDB plants container
 
 <p align="center" width="95%">
   <img src="img/synapse-create-new-notebook-with-linked-service.png">
@@ -52,7 +52,7 @@ Create new PySpark Notebook in Azure Synapse Link, pointing to your linked Cosmo
 
 ---
 
-Execute the Notebook.
+#### Execute the Notebook
 
 <p align="center" width="95%">
   <img src="img/synapse-initial-notebook-results.png">
