@@ -1,0 +1,2805 @@
+{
+  "plants": [
+    {
+      "active_ind": "active",
+      "city_name": "Canton",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11937",
+      "location": {
+        "coordinates": [
+          -82.86773,
+          35.459788
+        ],
+        "type": "Point"
+      },
+      "pk": "Canton",
+      "plant_address": "737 Thomas Park Cliffs",
+      "plant_manager": "Michael Smith",
+      "plant_name": "Canton",
+      "postal_cd": "28716",
+      "products": [
+        "Component_23",
+        "Product_73",
+        "Product_13",
+        "Component_78",
+        "Component_56"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Fort Bragg",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11621",
+      "location": {
+        "coordinates": [
+          -78.990966,
+          35.146635
+        ],
+        "type": "Point"
+      },
+      "pk": "Fort_Bragg",
+      "plant_address": "528 Angel Dale Flats",
+      "plant_manager": "John Stokes",
+      "plant_name": "Fort_Bragg",
+      "postal_cd": "28307",
+      "products": [
+        "Product_73",
+        "Product_87",
+        "Product_32",
+        "Product_44",
+        "Product_36"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "China Grove",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11445",
+      "location": {
+        "coordinates": [
+          -80.59619,
+          35.575642
+        ],
+        "type": "Point"
+      },
+      "pk": "China_Grove",
+      "plant_address": "559 Wallace Common Station",
+      "plant_manager": "Amy Bridges",
+      "plant_name": "China_Grove",
+      "postal_cd": "28023",
+      "products": [
+        "Product_42",
+        "Component_96",
+        "Product_82",
+        "Product_39",
+        "Component_48"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "closed",
+      "city_name": "Durham",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11266",
+      "location": {
+        "coordinates": [
+          -78.982388,
+          36.033619
+        ],
+        "type": "Point"
+      },
+      "pk": "Durham",
+      "plant_address": "306 Daniels Curve Haven",
+      "plant_manager": "Ryan Goodwin",
+      "plant_name": "Durham",
+      "postal_cd": "27705",
+      "products": [
+        "Product_70",
+        "Product_19",
+        "Product_62",
+        "Product_40",
+        "Component_40"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Ahoskie",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11374",
+      "location": {
+        "coordinates": [
+          -77.018298,
+          36.296771
+        ],
+        "type": "Point"
+      },
+      "pk": "Ahoskie",
+      "plant_address": "24 Bailey Manors Views",
+      "plant_manager": "Jennifer Randall",
+      "plant_name": "Ahoskie",
+      "postal_cd": "27910",
+      "products": [
+        "Component_22",
+        "Product_24",
+        "Product_99",
+        "Product_5",
+        "Component_37"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Elon",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11038",
+      "location": {
+        "coordinates": [
+          -79.486089,
+          36.2048
+        ],
+        "type": "Point"
+      },
+      "pk": "Elon",
+      "plant_address": "993 Finley Common Spring",
+      "plant_manager": "Lauren Cooley",
+      "plant_name": "Elon",
+      "postal_cd": "27244",
+      "products": [
+        "Product_60",
+        "Component_72",
+        "Component_64",
+        "Component_45",
+        "Component_78"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Barium Springs",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11437",
+      "location": {
+        "coordinates": [
+          -80.8984,
+          35.7188
+        ],
+        "type": "Point"
+      },
+      "pk": "Barium_Springs",
+      "plant_address": "48 White Lake Landing",
+      "plant_manager": "Wendy Brown",
+      "plant_name": "Barium_Springs",
+      "postal_cd": "28010",
+      "products": [
+        "Product_13",
+        "Component_14",
+        "Component_5",
+        "Component_83",
+        "Component_63"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Raleigh",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11251",
+      "location": {
+        "coordinates": [
+          -78.6388,
+          35.7719
+        ],
+        "type": "Point"
+      },
+      "pk": "Raleigh",
+      "plant_address": "228 Hector Spur Stream",
+      "plant_manager": "Randall Skinner",
+      "plant_name": "Raleigh",
+      "postal_cd": "27656",
+      "products": [
+        "Product_49",
+        "Component_88",
+        "Product_70",
+        "Product_57",
+        "Product_66"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Sanford",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11084",
+      "location": {
+        "coordinates": [
+          -79.199727,
+          35.51048
+        ],
+        "type": "Point"
+      },
+      "pk": "Sanford",
+      "plant_address": "326 Mcmillan Squares Stream",
+      "plant_manager": "John Cervantes",
+      "plant_name": "Sanford",
+      "postal_cd": "27330",
+      "products": [
+        "Product_72",
+        "Product_16",
+        "Component_20",
+        "Product_37",
+        "Product_25"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Durham",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11274",
+      "location": {
+        "coordinates": [
+          -78.929493,
+          35.885691
+        ],
+        "type": "Point"
+      },
+      "pk": "Durham",
+      "plant_address": "79 Hogan Fort Stravenue",
+      "plant_manager": "Gary Murphy",
+      "plant_name": "Durham",
+      "postal_cd": "27713",
+      "products": [
+        "Component_31",
+        "Product_36",
+        "Component_56",
+        "Product_3",
+        "Component_11"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Greensboro",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11124",
+      "location": {
+        "coordinates": [
+          -79.7925,
+          36.0726
+        ],
+        "type": "Point"
+      },
+      "pk": "Greensboro",
+      "plant_address": "728 George Rue Row",
+      "plant_manager": "Ronald Carroll",
+      "plant_name": "Greensboro",
+      "postal_cd": "27416",
+      "products": [
+        "Product_55",
+        "Product_45",
+        "Product_87",
+        "Component_91",
+        "Component_72"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Raleigh",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11223",
+      "location": {
+        "coordinates": [
+          -78.721192,
+          35.737593
+        ],
+        "type": "Point"
+      },
+      "pk": "Raleigh",
+      "plant_address": "500 Davis Falls Ville",
+      "plant_manager": "Elizabeth Page",
+      "plant_name": "Raleigh",
+      "postal_cd": "27606",
+      "products": [
+        "Component_26",
+        "Component_31",
+        "Product_93",
+        "Component_19",
+        "Component_47"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Pinebluff",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11677",
+      "location": {
+        "coordinates": [
+          -79.510052,
+          35.086934
+        ],
+        "type": "Point"
+      },
+      "pk": "Pinebluff",
+      "plant_address": "889 Taylor Isle Shoal",
+      "plant_manager": "Kathryn Turner",
+      "plant_name": "Pinebluff",
+      "postal_cd": "28373",
+      "products": [
+        "Component_85",
+        "Component_63",
+        "Product_71",
+        "Component_7",
+        "Product_15"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Ellerbe",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11645",
+      "location": {
+        "coordinates": [
+          -79.7509,
+          35.098764
+        ],
+        "type": "Point"
+      },
+      "pk": "Ellerbe",
+      "plant_address": "757 Jeremy Brooks Park",
+      "plant_manager": "Johnny Singh",
+      "plant_name": "Ellerbe",
+      "postal_cd": "28338",
+      "products": [
+        "Component_56",
+        "Product_93",
+        "Component_72",
+        "Product_57",
+        "Component_71"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Lattimore",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11484",
+      "location": {
+        "coordinates": [
+          -81.667995,
+          35.316683
+        ],
+        "type": "Point"
+      },
+      "pk": "Lattimore",
+      "plant_address": "199 Bryan Stream Station",
+      "plant_manager": "Vanessa Ramirez",
+      "plant_name": "Lattimore",
+      "postal_cd": "28089",
+      "products": [
+        "Component_32",
+        "Component_33",
+        "Product_18",
+        "Component_20",
+        "Product_25"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Cedar Grove",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11031",
+      "location": {
+        "coordinates": [
+          -79.16997,
+          36.195652
+        ],
+        "type": "Point"
+      },
+      "pk": "Cedar_Grove",
+      "plant_address": "153 Phillips Lodge Course",
+      "plant_manager": "Kerry Ward",
+      "plant_name": "Cedar_Grove",
+      "postal_cd": "27231",
+      "products": [
+        "Product_91",
+        "Component_2",
+        "Component_61",
+        "Product_57",
+        "Component_4"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "closed",
+      "city_name": "Falkland",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11304",
+      "location": {
+        "coordinates": [
+          -77.503171,
+          35.701452
+        ],
+        "type": "Point"
+      },
+      "pk": "Falkland",
+      "plant_address": "168 Solis Mill Turnpike",
+      "plant_manager": "Kevin Robinson",
+      "plant_name": "Falkland",
+      "postal_cd": "27827",
+      "products": [
+        "Product_98",
+        "Product_5",
+        "Component_13",
+        "Component_39",
+        "Product_23"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Huntersville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11476",
+      "location": {
+        "coordinates": [
+          -80.866352,
+          35.400197
+        ],
+        "type": "Point"
+      },
+      "pk": "Huntersville",
+      "plant_address": "104 Ramos Union River",
+      "plant_manager": "Christopher Nolan",
+      "plant_name": "Huntersville",
+      "postal_cd": "28078",
+      "products": [
+        "Component_72",
+        "Component_23",
+        "Component_90",
+        "Component_21",
+        "Product_90"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "South Mills",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11423",
+      "location": {
+        "coordinates": [
+          -76.358719,
+          36.466228
+        ],
+        "type": "Point"
+      },
+      "pk": "South_Mills",
+      "plant_address": "415 Robinson Drive Forest",
+      "plant_manager": "Brandy Johnson",
+      "plant_name": "South_Mills",
+      "postal_cd": "27976",
+      "products": [
+        "Product_29",
+        "Product_64",
+        "Component_33",
+        "Product_3",
+        "Component_10"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Winston Salem",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "10990",
+      "location": {
+        "coordinates": [
+          -80.2466,
+          36.0983
+        ],
+        "type": "Point"
+      },
+      "pk": "Winston_Salem",
+      "plant_address": "515 Smith Club Mountain",
+      "plant_manager": "Pamela Williams",
+      "plant_name": "Winston_Salem",
+      "postal_cd": "27102",
+      "products": [
+        "Component_40",
+        "Product_71",
+        "Component_91",
+        "Component_52",
+        "Component_84"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Shelby",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11529",
+      "location": {
+        "coordinates": [
+          -81.589832,
+          35.240607
+        ],
+        "type": "Point"
+      },
+      "pk": "Shelby",
+      "plant_address": "808 Solis Overpass Pine",
+      "plant_manager": "Joseph Adams",
+      "plant_name": "Shelby",
+      "postal_cd": "28152",
+      "products": [
+        "Component_62",
+        "Component_6",
+        "Component_5",
+        "Product_8",
+        "Product_43"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Fayetteville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11625",
+      "location": {
+        "coordinates": [
+          -78.895655,
+          35.171484
+        ],
+        "type": "Point"
+      },
+      "pk": "Fayetteville",
+      "plant_address": "492 Lewis Unions Crest",
+      "plant_manager": "Megan Austin",
+      "plant_name": "Fayetteville",
+      "postal_cd": "28311",
+      "products": [
+        "Component_45",
+        "Component_40",
+        "Product_96",
+        "Product_90",
+        "Component_27"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Winfall",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11430",
+      "location": {
+        "coordinates": [
+          -76.480688,
+          36.215999
+        ],
+        "type": "Point"
+      },
+      "pk": "Winfall",
+      "plant_address": "601 Michael Heights Summit",
+      "plant_manager": "Benjamin Salinas",
+      "plant_name": "Winfall",
+      "postal_cd": "27985",
+      "products": [
+        "Component_99",
+        "Component_95",
+        "Component_96",
+        "Product_33",
+        "Component_22"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "closed",
+      "city_name": "Lilesville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11486",
+      "location": {
+        "coordinates": [
+          -79.963184,
+          34.990347
+        ],
+        "type": "Point"
+      },
+      "pk": "Lilesville",
+      "plant_address": "947 Arnold Land Pines",
+      "plant_manager": "Alan Rodriguez",
+      "plant_name": "Lilesville",
+      "postal_cd": "28091",
+      "products": [
+        "Component_49",
+        "Component_1",
+        "Product_56",
+        "Component_23",
+        "Product_75"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Durham",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11268",
+      "location": {
+        "coordinates": [
+          -78.955534,
+          35.948152
+        ],
+        "type": "Point"
+      },
+      "pk": "Durham",
+      "plant_address": "574 Lewis Parkway Green",
+      "plant_manager": "Brittany Walker",
+      "plant_name": "Durham",
+      "postal_cd": "27707",
+      "products": [
+        "Product_80",
+        "Product_65",
+        "Component_8",
+        "Product_33",
+        "Component_14"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Salisbury",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11526",
+      "location": {
+        "coordinates": [
+          -80.558152,
+          35.694216
+        ],
+        "type": "Point"
+      },
+      "pk": "Salisbury",
+      "plant_address": "981 Gardner Knoll Ville",
+      "plant_manager": "Laura Gomez",
+      "plant_name": "Salisbury",
+      "postal_cd": "28147",
+      "products": [
+        "Component_4",
+        "Product_45",
+        "Product_39",
+        "Component_6",
+        "Component_31"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Waves",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11428",
+      "location": {
+        "coordinates": [
+          -75.473837,
+          35.562896
+        ],
+        "type": "Point"
+      },
+      "pk": "Waves",
+      "plant_address": "978 John Crossroad Spurs",
+      "plant_manager": "Richard Sanders",
+      "plant_name": "Waves",
+      "postal_cd": "27982",
+      "products": [
+        "Product_52",
+        "Component_28",
+        "Component_37",
+        "Product_14",
+        "Product_8"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Polkton",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11518",
+      "location": {
+        "coordinates": [
+          -80.181062,
+          35.01056
+        ],
+        "type": "Point"
+      },
+      "pk": "Polkton",
+      "plant_address": "383 Michael Brooks Road",
+      "plant_manager": "Katie Ramirez",
+      "plant_name": "Polkton",
+      "postal_cd": "28135",
+      "products": [
+        "Component_20",
+        "Component_26",
+        "Component_97",
+        "Product_19",
+        "Product_23"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Jackson Springs",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11054",
+      "location": {
+        "coordinates": [
+          -79.640032,
+          35.183468
+        ],
+        "type": "Point"
+      },
+      "pk": "Jackson_Springs",
+      "plant_address": "338 Collier Manors Mills",
+      "plant_manager": "Julie Graham",
+      "plant_name": "Jackson_Springs",
+      "postal_cd": "27281",
+      "products": [
+        "Product_53",
+        "Component_10",
+        "Product_17",
+        "Component_73",
+        "Component_6"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Roxboro",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11200",
+      "location": {
+        "coordinates": [
+          -78.939927,
+          36.416324
+        ],
+        "type": "Point"
+      },
+      "pk": "Roxboro",
+      "plant_address": "574 Smith Ports Stravenue",
+      "plant_manager": "Gregory Strickland",
+      "plant_name": "Roxboro",
+      "postal_cd": "27574",
+      "products": [
+        "Product_9",
+        "Component_40",
+        "Component_41",
+        "Product_10",
+        "Component_42"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Kernersville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11057",
+      "location": {
+        "coordinates": [
+          -80.07602,
+          36.118256
+        ],
+        "type": "Point"
+      },
+      "pk": "Kernersville",
+      "plant_address": "362 Frazier Crest Place",
+      "plant_manager": "Heather Hernandez",
+      "plant_name": "Kernersville",
+      "postal_cd": "27284",
+      "products": [
+        "Component_94",
+        "Product_96",
+        "Component_24",
+        "Component_41",
+        "Component_90"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Oxford",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11193",
+      "location": {
+        "coordinates": [
+          -78.648391,
+          36.350442
+        ],
+        "type": "Point"
+      },
+      "pk": "Oxford",
+      "plant_address": "9 Hall Hollow Crossroad",
+      "plant_manager": "Kari Rios",
+      "plant_name": "Oxford",
+      "postal_cd": "27565",
+      "products": [
+        "Component_94",
+        "Product_78",
+        "Component_64",
+        "Product_61",
+        "Product_45"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Minneapolis",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11880",
+      "location": {
+        "coordinates": [
+          -81.9964,
+          36.0825
+        ],
+        "type": "Point"
+      },
+      "pk": "Minneapolis",
+      "plant_address": "436 Abigail Forge Port",
+      "plant_manager": "Michael Scott",
+      "plant_name": "Minneapolis",
+      "postal_cd": "28652",
+      "products": [
+        "Component_14",
+        "Product_87",
+        "Product_26",
+        "Product_86",
+        "Component_40"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Rock Hill",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12473",
+      "location": {
+        "coordinates": [
+          -81.077579,
+          34.965936
+        ],
+        "type": "Point"
+      },
+      "pk": "Rock_Hill",
+      "plant_address": "492 Robinson Station Fort",
+      "plant_manager": "Travis Garza",
+      "plant_name": "Rock_Hill",
+      "postal_cd": "29732",
+      "products": [
+        "Product_44",
+        "Component_18",
+        "Component_37",
+        "Product_68",
+        "Component_60"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Cross",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12253",
+      "location": {
+        "coordinates": [
+          -80.19452,
+          33.338773
+        ],
+        "type": "Point"
+      },
+      "pk": "Cross",
+      "plant_address": "769 Laurie Streets Creek",
+      "plant_manager": "Kathy Lopez",
+      "plant_name": "Cross",
+      "postal_cd": "29436",
+      "products": [
+        "Product_43",
+        "Component_58",
+        "Product_35",
+        "Product_41",
+        "Product_74"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Clemson",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12388",
+      "location": {
+        "coordinates": [
+          -82.816747,
+          34.680495
+        ],
+        "type": "Point"
+      },
+      "pk": "Clemson",
+      "plant_address": "453 Wilson Parkway Valley",
+      "plant_manager": "Michael Hughes",
+      "plant_name": "Clemson",
+      "postal_cd": "29631",
+      "products": [
+        "Component_18",
+        "Component_43",
+        "Product_1",
+        "Component_50",
+        "Product_90"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Barnwell",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12489",
+      "location": {
+        "coordinates": [
+          -81.346837,
+          33.212405
+        ],
+        "type": "Point"
+      },
+      "pk": "Barnwell",
+      "plant_address": "536 Nancy Canyon Throughway",
+      "plant_manager": "Daniel Kelley",
+      "plant_name": "Barnwell",
+      "postal_cd": "29812",
+      "products": [
+        "Component_74",
+        "Product_38",
+        "Component_49",
+        "Product_34",
+        "Component_48"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Davis Station",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12050",
+      "location": {
+        "coordinates": [
+          -80.2644,
+          33.6028
+        ],
+        "type": "Point"
+      },
+      "pk": "Davis_Station",
+      "plant_address": "660 Daniels Squares Drive",
+      "plant_manager": "Ryan Espinoza",
+      "plant_name": "Davis_Station",
+      "postal_cd": "29041",
+      "products": [
+        "Product_32",
+        "Product_22",
+        "Component_51",
+        "Component_34",
+        "Component_42"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Charleston",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12236",
+      "location": {
+        "coordinates": [
+          -79.9356,
+          32.7786
+        ],
+        "type": "Point"
+      },
+      "pk": "Charleston",
+      "plant_address": "541 William Junction Viaduct",
+      "plant_manager": "Melinda Reese",
+      "plant_name": "Charleston",
+      "postal_cd": "29416",
+      "products": [
+        "Component_9",
+        "Component_99",
+        "Component_94",
+        "Product_79",
+        "Component_42"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Chesnee",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12182",
+      "location": {
+        "coordinates": [
+          -81.920516,
+          35.112112
+        ],
+        "type": "Point"
+      },
+      "pk": "Chesnee",
+      "plant_address": "580 Norris Loaf Extension",
+      "plant_manager": "Brian Lopez",
+      "plant_name": "Chesnee",
+      "postal_cd": "29323",
+      "products": [
+        "Product_84",
+        "Product_24",
+        "Component_8",
+        "Component_86",
+        "Component_85"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Bluffton",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12533",
+      "location": {
+        "coordinates": [
+          -80.887555,
+          32.227874
+        ],
+        "type": "Point"
+      },
+      "pk": "Bluffton",
+      "plant_address": "952 Corey Throughway Junction",
+      "plant_manager": "Jonathan Sloan",
+      "plant_name": "Bluffton",
+      "postal_cd": "29910",
+      "products": [
+        "Component_4",
+        "Component_86",
+        "Product_83",
+        "Product_42",
+        "Product_50"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Norris",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12421",
+      "location": {
+        "coordinates": [
+          -82.757064,
+          34.76357
+        ],
+        "type": "Point"
+      },
+      "pk": "Norris",
+      "plant_address": "701 Joshua Viaduct Mills",
+      "plant_manager": "Gilbert Singh",
+      "plant_name": "Norris",
+      "postal_cd": "29667",
+      "products": [
+        "Component_37",
+        "Component_47",
+        "Component_43",
+        "Component_25",
+        "Product_86"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Mount Pleasant",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12273",
+      "location": {
+        "coordinates": [
+          -79.852362,
+          32.821494
+        ],
+        "type": "Point"
+      },
+      "pk": "Mount_Pleasant",
+      "plant_address": "961 Sara Mission Mountain",
+      "plant_manager": "Kayla Harris",
+      "plant_name": "Mount_Pleasant",
+      "postal_cd": "29464",
+      "products": [
+        "Product_46",
+        "Component_79",
+        "Component_86",
+        "Product_68",
+        "Product_71"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Pelion",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12097",
+      "location": {
+        "coordinates": [
+          -81.261202,
+          33.763375
+        ],
+        "type": "Point"
+      },
+      "pk": "Pelion",
+      "plant_address": "974 Crane Forge Well",
+      "plant_manager": "Christopher Schaefer",
+      "plant_name": "Pelion",
+      "postal_cd": "29123",
+      "products": [
+        "Component_47",
+        "Product_58",
+        "Product_28",
+        "Product_17",
+        "Product_74"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Gresham",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12320",
+      "location": {
+        "coordinates": [
+          -79.353691,
+          33.864583
+        ],
+        "type": "Point"
+      },
+      "pk": "Gresham",
+      "plant_address": "807 Ronald Lodge Stream",
+      "plant_manager": "Catherine Rivers",
+      "plant_name": "Gresham",
+      "postal_cd": "29546",
+      "products": [
+        "Component_17",
+        "Component_70",
+        "Product_78",
+        "Product_49",
+        "Component_18"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Seneca",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12425",
+      "location": {
+        "coordinates": [
+          -82.946642,
+          34.75486
+        ],
+        "type": "Point"
+      },
+      "pk": "Seneca",
+      "plant_address": "921 Patel Street Hill",
+      "plant_manager": "Dustin Hudson",
+      "plant_name": "Seneca",
+      "postal_cd": "29672",
+      "products": [
+        "Component_96",
+        "Component_56",
+        "Product_46",
+        "Product_66",
+        "Product_75"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Columbia",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12135",
+      "location": {
+        "coordinates": [
+          -81.024826,
+          33.986628
+        ],
+        "type": "Point"
+      },
+      "pk": "Columbia",
+      "plant_address": "966 Edward Haven Trail",
+      "plant_manager": "Theresa Hill",
+      "plant_name": "Columbia",
+      "postal_cd": "29201",
+      "products": [
+        "Component_52",
+        "Component_24",
+        "Component_40",
+        "Product_2",
+        "Component_1"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Little Rock",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12332",
+      "location": {
+        "coordinates": [
+          -79.433947,
+          34.548848
+        ],
+        "type": "Point"
+      },
+      "pk": "Little_Rock",
+      "plant_address": "278 James Plains Avenue",
+      "plant_manager": "Sheila Strong",
+      "plant_name": "Little_Rock",
+      "postal_cd": "29567",
+      "products": [
+        "Component_57",
+        "Product_9",
+        "Product_32",
+        "Component_77",
+        "Component_21"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Anderson",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12380",
+      "location": {
+        "coordinates": [
+          -82.6503,
+          34.5034
+        ],
+        "type": "Point"
+      },
+      "pk": "Anderson",
+      "plant_address": "741 Gutierrez Port Forest",
+      "plant_manager": "Thomas Estrada",
+      "plant_name": "Anderson",
+      "postal_cd": "29622",
+      "products": [
+        "Product_76",
+        "Component_39",
+        "Component_81",
+        "Component_5",
+        "Product_14"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Clifton",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12183",
+      "location": {
+        "coordinates": [
+          -81.8183,
+          34.9794
+        ],
+        "type": "Point"
+      },
+      "pk": "Clifton",
+      "plant_address": "931 Garcia Shoals Harbors",
+      "plant_manager": "Shawn Perez",
+      "plant_name": "Clifton",
+      "postal_cd": "29324",
+      "products": [
+        "Component_77",
+        "Product_80",
+        "Product_42",
+        "Product_1",
+        "Product_13"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Orangeburg",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12094",
+      "location": {
+        "coordinates": [
+          -80.84809,
+          33.498438
+        ],
+        "type": "Point"
+      },
+      "pk": "Orangeburg",
+      "plant_address": "628 Morrow Locks View",
+      "plant_manager": "Alexandria Gordon",
+      "plant_name": "Orangeburg",
+      "postal_cd": "29117",
+      "products": [
+        "Product_89",
+        "Product_22",
+        "Component_29",
+        "Component_11",
+        "Component_22"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Charleston AFB",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12226",
+      "location": {
+        "coordinates": [
+          -80.05428,
+          32.900009
+        ],
+        "type": "Point"
+      },
+      "pk": "Charleston_AFB",
+      "plant_address": "199 Ward Drive Harbors",
+      "plant_manager": "Valerie Tate",
+      "plant_name": "Charleston_AFB",
+      "postal_cd": "29404",
+      "products": [
+        "Product_31",
+        "Component_50",
+        "Product_14",
+        "Product_90",
+        "Product_7"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "New Zion",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12088",
+      "location": {
+        "coordinates": [
+          -80.01535,
+          33.771809
+        ],
+        "type": "Point"
+      },
+      "pk": "New_Zion",
+      "plant_address": "39 Regina Wall Island",
+      "plant_manager": "Ryan Pierce",
+      "plant_name": "New_Zion",
+      "postal_cd": "29111",
+      "products": [
+        "Component_87",
+        "Component_50",
+        "Component_60",
+        "Component_2",
+        "Component_36"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Johns Island",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12268",
+      "location": {
+        "coordinates": [
+          -80.098045,
+          32.718663
+        ],
+        "type": "Point"
+      },
+      "pk": "Johns_Island",
+      "plant_address": "547 Robinson Circle Unions",
+      "plant_manager": "Gregory Gutierrez",
+      "plant_name": "Johns_Island",
+      "postal_cd": "29455",
+      "products": [
+        "Component_3",
+        "Component_66",
+        "Product_88",
+        "Product_34",
+        "Component_38"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Rock Hill",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12472",
+      "location": {
+        "coordinates": [
+          -81.0256,
+          34.9248
+        ],
+        "type": "Point"
+      },
+      "pk": "Rock_Hill",
+      "plant_address": "819 Kim Union Island",
+      "plant_manager": "Jenny Smith",
+      "plant_name": "Rock_Hill",
+      "postal_cd": "29731",
+      "products": [
+        "Product_81",
+        "Product_96",
+        "Product_26",
+        "Product_18",
+        "Product_55"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Greenville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12362",
+      "location": {
+        "coordinates": [
+          -82.3943,
+          34.8526
+        ],
+        "type": "Point"
+      },
+      "pk": "Greenville",
+      "plant_address": "313 Kathleen Tunnel Island",
+      "plant_manager": "Fred Lee",
+      "plant_name": "Greenville",
+      "postal_cd": "29602",
+      "products": [
+        "Component_33",
+        "Component_56",
+        "Product_61",
+        "Product_5",
+        "Product_88"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "closed",
+      "city_name": "Lake City",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12327",
+      "location": {
+        "coordinates": [
+          -79.749798,
+          33.851802
+        ],
+        "type": "Point"
+      },
+      "pk": "Lake_City",
+      "plant_address": "322 Lisa Views Club",
+      "plant_manager": "Travis Rosales",
+      "plant_name": "Lake_City",
+      "postal_cd": "29560",
+      "products": [
+        "Component_44",
+        "Product_67",
+        "Component_1",
+        "Product_86",
+        "Component_74"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Inman",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12199",
+      "location": {
+        "coordinates": [
+          -82.080597,
+          35.082322
+        ],
+        "type": "Point"
+      },
+      "pk": "Inman",
+      "plant_address": "444 Garcia Highway Street",
+      "plant_manager": "Felicia Alvarez",
+      "plant_name": "Inman",
+      "postal_cd": "29349",
+      "products": [
+        "Component_45",
+        "Product_10",
+        "Component_13",
+        "Component_3",
+        "Component_66"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Montmorenci",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12507",
+      "location": {
+        "coordinates": [
+          -81.6364,
+          33.5278
+        ],
+        "type": "Point"
+      },
+      "pk": "Montmorenci",
+      "plant_address": "839 Moore Points Causeway",
+      "plant_manager": "Joshua Mcclure",
+      "plant_name": "Montmorenci",
+      "postal_cd": "29839",
+      "products": [
+        "Product_10",
+        "Component_5",
+        "Product_45",
+        "Component_17",
+        "Component_82"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Hilton Head Island",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12549",
+      "location": {
+        "coordinates": [
+          -80.748747,
+          32.172838
+        ],
+        "type": "Point"
+      },
+      "pk": "Hilton_Head_Island",
+      "plant_address": "823 Lori Overpass Neck",
+      "plant_manager": "Jake Henderson",
+      "plant_name": "Hilton_Head_Island",
+      "postal_cd": "29928",
+      "products": [
+        "Component_3",
+        "Product_18",
+        "Product_52",
+        "Product_91",
+        "Component_56"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Plum Branch",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12513",
+      "location": {
+        "coordinates": [
+          -82.215146,
+          33.828019
+        ],
+        "type": "Point"
+      },
+      "pk": "Plum_Branch",
+      "plant_address": "280 Roberts Neck Plains",
+      "plant_manager": "Matthew Kelly",
+      "plant_name": "Plum_Branch",
+      "postal_cd": "29845",
+      "products": [
+        "Component_94",
+        "Product_74",
+        "Component_30",
+        "Product_4",
+        "Product_18"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Alcolu",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12029",
+      "location": {
+        "coordinates": [
+          -80.132433,
+          33.773887
+        ],
+        "type": "Point"
+      },
+      "pk": "Alcolu",
+      "plant_address": "31 Williams Mountain Track",
+      "plant_manager": "Brian Crawford",
+      "plant_name": "Alcolu",
+      "postal_cd": "29001",
+      "products": [
+        "Product_63",
+        "Product_96",
+        "Product_18",
+        "Product_94",
+        "Product_44"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Boiling Springs",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12177",
+      "location": {
+        "coordinates": [
+          -81.9325,
+          34.9497
+        ],
+        "type": "Point"
+      },
+      "pk": "Boiling_Springs",
+      "plant_address": "18 Andrews Lodge Forest",
+      "plant_manager": "Diana Lopez",
+      "plant_name": "Boiling_Springs",
+      "postal_cd": "29318",
+      "products": [
+        "Product_51",
+        "Component_46",
+        "Component_68",
+        "Product_47",
+        "Product_86"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Charleston",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12241",
+      "location": {
+        "coordinates": [
+          -79.9312,
+          32.7765
+        ],
+        "type": "Point"
+      },
+      "pk": "Charleston",
+      "plant_address": "214 Griffin Road Brooks",
+      "plant_manager": "Tiffany Bernard",
+      "plant_name": "Charleston",
+      "postal_cd": "29422",
+      "products": [
+        "Component_66",
+        "Product_40",
+        "Component_33",
+        "Product_6",
+        "Product_18"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Catawba",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12451",
+      "location": {
+        "coordinates": [
+          -80.920202,
+          34.817657
+        ],
+        "type": "Point"
+      },
+      "pk": "Catawba",
+      "plant_address": "575 Hicks Route Mountain",
+      "plant_manager": "Anna Rosario",
+      "plant_name": "Catawba",
+      "postal_cd": "29704",
+      "products": [
+        "Product_28",
+        "Component_97",
+        "Product_47",
+        "Component_9",
+        "Product_3"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Bethera",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12247",
+      "location": {
+        "coordinates": [
+          -79.789112,
+          33.177308
+        ],
+        "type": "Point"
+      },
+      "pk": "Bethera",
+      "plant_address": "237 Greene Point Square",
+      "plant_manager": "Jennifer Gill",
+      "plant_name": "Bethera",
+      "postal_cd": "29430",
+      "products": [
+        "Component_57",
+        "Component_34",
+        "Component_61",
+        "Component_58",
+        "Component_37"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Landrum",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "12203",
+      "location": {
+        "coordinates": [
+          -82.251463,
+          35.131268
+        ],
+        "type": "Point"
+      },
+      "pk": "Landrum",
+      "plant_address": "799 Sanchez Causeway Street",
+      "plant_manager": "Jordan Harris",
+      "plant_name": "Landrum",
+      "postal_cd": "29356",
+      "products": [
+        "Product_98",
+        "Product_91",
+        "Component_65",
+        "Product_50",
+        "Component_75"
+      ],
+      "state_abbrv": "SC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Canton",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11937",
+      "location": {
+        "coordinates": [
+          -82.86773,
+          35.459788
+        ],
+        "type": "Point"
+      },
+      "pk": "Canton",
+      "plant_address": "737 Thomas Park Cliffs",
+      "plant_manager": "Michael Smith",
+      "plant_name": "Canton",
+      "postal_cd": "28716",
+      "products": [
+        "Component_23",
+        "Product_73",
+        "Product_13",
+        "Component_78",
+        "Component_56"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Fort Bragg",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11621",
+      "location": {
+        "coordinates": [
+          -78.990966,
+          35.146635
+        ],
+        "type": "Point"
+      },
+      "pk": "Fort_Bragg",
+      "plant_address": "528 Angel Dale Flats",
+      "plant_manager": "John Stokes",
+      "plant_name": "Fort_Bragg",
+      "postal_cd": "28307",
+      "products": [
+        "Product_73",
+        "Product_87",
+        "Product_32",
+        "Product_44",
+        "Product_36"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "China Grove",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11445",
+      "location": {
+        "coordinates": [
+          -80.59619,
+          35.575642
+        ],
+        "type": "Point"
+      },
+      "pk": "China_Grove",
+      "plant_address": "559 Wallace Common Station",
+      "plant_manager": "Amy Bridges",
+      "plant_name": "China_Grove",
+      "postal_cd": "28023",
+      "products": [
+        "Product_42",
+        "Component_96",
+        "Product_82",
+        "Product_39",
+        "Component_48"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "closed",
+      "city_name": "Durham",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11266",
+      "location": {
+        "coordinates": [
+          -78.982388,
+          36.033619
+        ],
+        "type": "Point"
+      },
+      "pk": "Durham",
+      "plant_address": "306 Daniels Curve Haven",
+      "plant_manager": "Ryan Goodwin",
+      "plant_name": "Durham",
+      "postal_cd": "27705",
+      "products": [
+        "Product_70",
+        "Product_19",
+        "Product_62",
+        "Product_40",
+        "Component_40"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Ahoskie",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11374",
+      "location": {
+        "coordinates": [
+          -77.018298,
+          36.296771
+        ],
+        "type": "Point"
+      },
+      "pk": "Ahoskie",
+      "plant_address": "24 Bailey Manors Views",
+      "plant_manager": "Jennifer Randall",
+      "plant_name": "Ahoskie",
+      "postal_cd": "27910",
+      "products": [
+        "Component_22",
+        "Product_24",
+        "Product_99",
+        "Product_5",
+        "Component_37"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Elon",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11038",
+      "location": {
+        "coordinates": [
+          -79.486089,
+          36.2048
+        ],
+        "type": "Point"
+      },
+      "pk": "Elon",
+      "plant_address": "993 Finley Common Spring",
+      "plant_manager": "Lauren Cooley",
+      "plant_name": "Elon",
+      "postal_cd": "27244",
+      "products": [
+        "Product_60",
+        "Component_72",
+        "Component_64",
+        "Component_45",
+        "Component_78"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Barium Springs",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11437",
+      "location": {
+        "coordinates": [
+          -80.8984,
+          35.7188
+        ],
+        "type": "Point"
+      },
+      "pk": "Barium_Springs",
+      "plant_address": "48 White Lake Landing",
+      "plant_manager": "Wendy Brown",
+      "plant_name": "Barium_Springs",
+      "postal_cd": "28010",
+      "products": [
+        "Product_13",
+        "Component_14",
+        "Component_5",
+        "Component_83",
+        "Component_63"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Raleigh",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11251",
+      "location": {
+        "coordinates": [
+          -78.6388,
+          35.7719
+        ],
+        "type": "Point"
+      },
+      "pk": "Raleigh",
+      "plant_address": "228 Hector Spur Stream",
+      "plant_manager": "Randall Skinner",
+      "plant_name": "Raleigh",
+      "postal_cd": "27656",
+      "products": [
+        "Product_49",
+        "Component_88",
+        "Product_70",
+        "Product_57",
+        "Product_66"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Sanford",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11084",
+      "location": {
+        "coordinates": [
+          -79.199727,
+          35.51048
+        ],
+        "type": "Point"
+      },
+      "pk": "Sanford",
+      "plant_address": "326 Mcmillan Squares Stream",
+      "plant_manager": "John Cervantes",
+      "plant_name": "Sanford",
+      "postal_cd": "27330",
+      "products": [
+        "Product_72",
+        "Product_16",
+        "Component_20",
+        "Product_37",
+        "Product_25"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Durham",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11274",
+      "location": {
+        "coordinates": [
+          -78.929493,
+          35.885691
+        ],
+        "type": "Point"
+      },
+      "pk": "Durham",
+      "plant_address": "79 Hogan Fort Stravenue",
+      "plant_manager": "Gary Murphy",
+      "plant_name": "Durham",
+      "postal_cd": "27713",
+      "products": [
+        "Component_31",
+        "Product_36",
+        "Component_56",
+        "Product_3",
+        "Component_11"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Greensboro",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11124",
+      "location": {
+        "coordinates": [
+          -79.7925,
+          36.0726
+        ],
+        "type": "Point"
+      },
+      "pk": "Greensboro",
+      "plant_address": "728 George Rue Row",
+      "plant_manager": "Ronald Carroll",
+      "plant_name": "Greensboro",
+      "postal_cd": "27416",
+      "products": [
+        "Product_55",
+        "Product_45",
+        "Product_87",
+        "Component_91",
+        "Component_72"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Raleigh",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11223",
+      "location": {
+        "coordinates": [
+          -78.721192,
+          35.737593
+        ],
+        "type": "Point"
+      },
+      "pk": "Raleigh",
+      "plant_address": "500 Davis Falls Ville",
+      "plant_manager": "Elizabeth Page",
+      "plant_name": "Raleigh",
+      "postal_cd": "27606",
+      "products": [
+        "Component_26",
+        "Component_31",
+        "Product_93",
+        "Component_19",
+        "Component_47"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Pinebluff",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11677",
+      "location": {
+        "coordinates": [
+          -79.510052,
+          35.086934
+        ],
+        "type": "Point"
+      },
+      "pk": "Pinebluff",
+      "plant_address": "889 Taylor Isle Shoal",
+      "plant_manager": "Kathryn Turner",
+      "plant_name": "Pinebluff",
+      "postal_cd": "28373",
+      "products": [
+        "Component_85",
+        "Component_63",
+        "Product_71",
+        "Component_7",
+        "Product_15"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Ellerbe",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11645",
+      "location": {
+        "coordinates": [
+          -79.7509,
+          35.098764
+        ],
+        "type": "Point"
+      },
+      "pk": "Ellerbe",
+      "plant_address": "757 Jeremy Brooks Park",
+      "plant_manager": "Johnny Singh",
+      "plant_name": "Ellerbe",
+      "postal_cd": "28338",
+      "products": [
+        "Component_56",
+        "Product_93",
+        "Component_72",
+        "Product_57",
+        "Component_71"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Lattimore",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11484",
+      "location": {
+        "coordinates": [
+          -81.667995,
+          35.316683
+        ],
+        "type": "Point"
+      },
+      "pk": "Lattimore",
+      "plant_address": "199 Bryan Stream Station",
+      "plant_manager": "Vanessa Ramirez",
+      "plant_name": "Lattimore",
+      "postal_cd": "28089",
+      "products": [
+        "Component_32",
+        "Component_33",
+        "Product_18",
+        "Component_20",
+        "Product_25"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Cedar Grove",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11031",
+      "location": {
+        "coordinates": [
+          -79.16997,
+          36.195652
+        ],
+        "type": "Point"
+      },
+      "pk": "Cedar_Grove",
+      "plant_address": "153 Phillips Lodge Course",
+      "plant_manager": "Kerry Ward",
+      "plant_name": "Cedar_Grove",
+      "postal_cd": "27231",
+      "products": [
+        "Product_91",
+        "Component_2",
+        "Component_61",
+        "Product_57",
+        "Component_4"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "closed",
+      "city_name": "Falkland",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11304",
+      "location": {
+        "coordinates": [
+          -77.503171,
+          35.701452
+        ],
+        "type": "Point"
+      },
+      "pk": "Falkland",
+      "plant_address": "168 Solis Mill Turnpike",
+      "plant_manager": "Kevin Robinson",
+      "plant_name": "Falkland",
+      "postal_cd": "27827",
+      "products": [
+        "Product_98",
+        "Product_5",
+        "Component_13",
+        "Component_39",
+        "Product_23"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Huntersville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11476",
+      "location": {
+        "coordinates": [
+          -80.866352,
+          35.400197
+        ],
+        "type": "Point"
+      },
+      "pk": "Huntersville",
+      "plant_address": "104 Ramos Union River",
+      "plant_manager": "Christopher Nolan",
+      "plant_name": "Huntersville",
+      "postal_cd": "28078",
+      "products": [
+        "Component_72",
+        "Component_23",
+        "Component_90",
+        "Component_21",
+        "Product_90"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "South Mills",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11423",
+      "location": {
+        "coordinates": [
+          -76.358719,
+          36.466228
+        ],
+        "type": "Point"
+      },
+      "pk": "South_Mills",
+      "plant_address": "415 Robinson Drive Forest",
+      "plant_manager": "Brandy Johnson",
+      "plant_name": "South_Mills",
+      "postal_cd": "27976",
+      "products": [
+        "Product_29",
+        "Product_64",
+        "Component_33",
+        "Product_3",
+        "Component_10"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Winston Salem",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "10990",
+      "location": {
+        "coordinates": [
+          -80.2466,
+          36.0983
+        ],
+        "type": "Point"
+      },
+      "pk": "Winston_Salem",
+      "plant_address": "515 Smith Club Mountain",
+      "plant_manager": "Pamela Williams",
+      "plant_name": "Winston_Salem",
+      "postal_cd": "27102",
+      "products": [
+        "Component_40",
+        "Product_71",
+        "Component_91",
+        "Component_52",
+        "Component_84"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Shelby",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11529",
+      "location": {
+        "coordinates": [
+          -81.589832,
+          35.240607
+        ],
+        "type": "Point"
+      },
+      "pk": "Shelby",
+      "plant_address": "808 Solis Overpass Pine",
+      "plant_manager": "Joseph Adams",
+      "plant_name": "Shelby",
+      "postal_cd": "28152",
+      "products": [
+        "Component_62",
+        "Component_6",
+        "Component_5",
+        "Product_8",
+        "Product_43"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Fayetteville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11625",
+      "location": {
+        "coordinates": [
+          -78.895655,
+          35.171484
+        ],
+        "type": "Point"
+      },
+      "pk": "Fayetteville",
+      "plant_address": "492 Lewis Unions Crest",
+      "plant_manager": "Megan Austin",
+      "plant_name": "Fayetteville",
+      "postal_cd": "28311",
+      "products": [
+        "Component_45",
+        "Component_40",
+        "Product_96",
+        "Product_90",
+        "Component_27"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Winfall",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11430",
+      "location": {
+        "coordinates": [
+          -76.480688,
+          36.215999
+        ],
+        "type": "Point"
+      },
+      "pk": "Winfall",
+      "plant_address": "601 Michael Heights Summit",
+      "plant_manager": "Benjamin Salinas",
+      "plant_name": "Winfall",
+      "postal_cd": "27985",
+      "products": [
+        "Component_99",
+        "Component_95",
+        "Component_96",
+        "Product_33",
+        "Component_22"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "closed",
+      "city_name": "Lilesville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11486",
+      "location": {
+        "coordinates": [
+          -79.963184,
+          34.990347
+        ],
+        "type": "Point"
+      },
+      "pk": "Lilesville",
+      "plant_address": "947 Arnold Land Pines",
+      "plant_manager": "Alan Rodriguez",
+      "plant_name": "Lilesville",
+      "postal_cd": "28091",
+      "products": [
+        "Component_49",
+        "Component_1",
+        "Product_56",
+        "Component_23",
+        "Product_75"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Durham",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11268",
+      "location": {
+        "coordinates": [
+          -78.955534,
+          35.948152
+        ],
+        "type": "Point"
+      },
+      "pk": "Durham",
+      "plant_address": "574 Lewis Parkway Green",
+      "plant_manager": "Brittany Walker",
+      "plant_name": "Durham",
+      "postal_cd": "27707",
+      "products": [
+        "Product_80",
+        "Product_65",
+        "Component_8",
+        "Product_33",
+        "Component_14"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Salisbury",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11526",
+      "location": {
+        "coordinates": [
+          -80.558152,
+          35.694216
+        ],
+        "type": "Point"
+      },
+      "pk": "Salisbury",
+      "plant_address": "981 Gardner Knoll Ville",
+      "plant_manager": "Laura Gomez",
+      "plant_name": "Salisbury",
+      "postal_cd": "28147",
+      "products": [
+        "Component_4",
+        "Product_45",
+        "Product_39",
+        "Component_6",
+        "Component_31"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Waves",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11428",
+      "location": {
+        "coordinates": [
+          -75.473837,
+          35.562896
+        ],
+        "type": "Point"
+      },
+      "pk": "Waves",
+      "plant_address": "978 John Crossroad Spurs",
+      "plant_manager": "Richard Sanders",
+      "plant_name": "Waves",
+      "postal_cd": "27982",
+      "products": [
+        "Product_52",
+        "Component_28",
+        "Component_37",
+        "Product_14",
+        "Product_8"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Polkton",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11518",
+      "location": {
+        "coordinates": [
+          -80.181062,
+          35.01056
+        ],
+        "type": "Point"
+      },
+      "pk": "Polkton",
+      "plant_address": "383 Michael Brooks Road",
+      "plant_manager": "Katie Ramirez",
+      "plant_name": "Polkton",
+      "postal_cd": "28135",
+      "products": [
+        "Component_20",
+        "Component_26",
+        "Component_97",
+        "Product_19",
+        "Product_23"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Jackson Springs",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11054",
+      "location": {
+        "coordinates": [
+          -79.640032,
+          35.183468
+        ],
+        "type": "Point"
+      },
+      "pk": "Jackson_Springs",
+      "plant_address": "338 Collier Manors Mills",
+      "plant_manager": "Julie Graham",
+      "plant_name": "Jackson_Springs",
+      "postal_cd": "27281",
+      "products": [
+        "Product_53",
+        "Component_10",
+        "Product_17",
+        "Component_73",
+        "Component_6"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Roxboro",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11200",
+      "location": {
+        "coordinates": [
+          -78.939927,
+          36.416324
+        ],
+        "type": "Point"
+      },
+      "pk": "Roxboro",
+      "plant_address": "574 Smith Ports Stravenue",
+      "plant_manager": "Gregory Strickland",
+      "plant_name": "Roxboro",
+      "postal_cd": "27574",
+      "products": [
+        "Product_9",
+        "Component_40",
+        "Component_41",
+        "Product_10",
+        "Component_42"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Kernersville",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11057",
+      "location": {
+        "coordinates": [
+          -80.07602,
+          36.118256
+        ],
+        "type": "Point"
+      },
+      "pk": "Kernersville",
+      "plant_address": "362 Frazier Crest Place",
+      "plant_manager": "Heather Hernandez",
+      "plant_name": "Kernersville",
+      "postal_cd": "27284",
+      "products": [
+        "Component_94",
+        "Product_96",
+        "Component_24",
+        "Component_41",
+        "Component_90"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Oxford",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11193",
+      "location": {
+        "coordinates": [
+          -78.648391,
+          36.350442
+        ],
+        "type": "Point"
+      },
+      "pk": "Oxford",
+      "plant_address": "9 Hall Hollow Crossroad",
+      "plant_manager": "Kari Rios",
+      "plant_name": "Oxford",
+      "postal_cd": "27565",
+      "products": [
+        "Component_94",
+        "Product_78",
+        "Component_64",
+        "Product_61",
+        "Product_45"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    },
+    {
+      "active_ind": "active",
+      "city_name": "Minneapolis",
+      "country_cd": "US",
+      "doctype": "plant",
+      "id": "11880",
+      "location": {
+        "coordinates": [
+          -81.9964,
+          36.0825
+        ],
+        "type": "Point"
+      },
+      "pk": "Minneapolis",
+      "plant_address": "436 Abigail Forge Port",
+      "plant_manager": "Michael Scott",
+      "plant_name": "Minneapolis",
+      "postal_cd": "28652",
+      "products": [
+        "Component_14",
+        "Product_87",
+        "Product_26",
+        "Product_86",
+        "Component_40"
+      ],
+      "state_abbrv": "NC",
+      "updated_at": 1602347555
+    }
+  ],
+  "updated_at": 1602347555
+}
