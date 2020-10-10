@@ -7,7 +7,7 @@ TODO
 [Azure Synapse Link](https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link)
 
 <p align="center" width="95%">
-  <img src="img/synapse-analytics-cosmos-db-architecture.png">
+  <img src="img/architecture.png">
 </p>
 
 ---
