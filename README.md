@@ -1,5 +1,43 @@
 # azure-function-cosmos-synapse-link
 
+## Solution Architecture
+
+TODO
+
+## Azure Synapse Link
+
+[Azure Synapse Link](https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link)
+
+<p align="center" width="95%">
+  <img src="img/synapse-analytics-cosmos-db-architecture.png">
+</p>
+
+---
+
+<p align="center" width="95%">
+  <img src="img/enable-synapse-link-feature.png">
+</p>
+
+---
+
+<p align="center" width="95%">
+  <img src="img/documents-in-cosmosdb.png">
+</p>
+
+---
+
+<p align="center" width="95%">
+  <img src="img/synapse-workspace-welcome-screen.png">
+</p>
+
+---
+
+<p align="center" width="95%">
+  <img src="img/synapse-create-linked-service.png">
+</p>
+
+
+
 ---
 
 ## Deploying this Solution
