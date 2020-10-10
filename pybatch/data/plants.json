@@ -1056,14 +1056,15 @@
       "plant_name": "Conway",
       "postal_cd": "29528",
       "products": [
-        "Product_51",
-        "Component_43",
-        "Product_19",
-        "Product_44",
-        "Component_53"
+        "Component_50",
+        "Product_21",
+        "Component_26",
+        "Component_27",
+        "Component_28",
+        "Component_98"
       ],
       "state_abbrv": "SC",
-      "updated_at": 1602352426
+      "updated_at": 1602360234
     },
     {
       "active_ind": "active",
@@ -1925,14 +1926,15 @@
       "plant_name": "Micaville",
       "postal_cd": "28755",
       "products": [
-        "Product_54",
-        "Product_84",
-        "Product_80",
-        "Product_59",
-        "Component_10"
+        "Product_74",
+        "Product_9",
+        "Component_59",
+        "Component_72",
+        "Component_13",
+        "Product_26"
       ],
       "state_abbrv": "NC",
-      "updated_at": 1602352426
+      "updated_at": 1602360234
     },
     {
       "active_ind": "active",
@@ -2806,5 +2808,5 @@
       "updated_at": 1602352426
     }
   ],
-  "updated_at": 1602357150
+  "updated_at": 1602360234
 }
