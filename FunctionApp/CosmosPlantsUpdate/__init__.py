@@ -15,7 +15,7 @@ import azure.cosmos.documents as documents
 import azure.cosmos.exceptions as exceptions
 import azure.cosmos.partition_key as partition_key
 
-FUNCTION_VERSION = '2020/10/10 13:00'
+FUNCTION_VERSION = '2020/10/10 13:44'
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     try:

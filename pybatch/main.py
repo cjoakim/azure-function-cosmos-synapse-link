@@ -185,7 +185,6 @@ def invoke(function_name, method, url, headers={}, json_body={}):
     if r.status_code < 300:
         try:
             resp_obj = json.loads(r.text)
-            print('response json parsed')
             outfile = 'tmp/{}.json'.format(function_name)
             print(outfile)
             write_obj_as_json_file(outfile, resp_obj)
