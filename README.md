@@ -2,8 +2,6 @@
 
 ## Solution Architecture
 
-TODO
-
 [Azure Synapse Link](https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link)
 
 <p align="center" width="95%">
