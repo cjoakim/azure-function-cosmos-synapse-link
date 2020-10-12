@@ -1028,14 +1028,15 @@
       "plant_name": "Lake_City",
       "postal_cd": "29560",
       "products": [
-        "Component_52",
-        "Component_4",
-        "Product_81",
-        "Product_26",
-        "Component_64"
+        "Component_48",
+        "Product_96",
+        "Component_79",
+        "Component_32",
+        "Product_58",
+        "Component_91"
       ],
       "state_abbrv": "SC",
-      "updated_at": 1602352426
+      "updated_at": 1602514734
     },
     {
       "active_ind": "closed",
@@ -2808,5 +2809,5 @@
       "updated_at": 1602352426
     }
   ],
-  "updated_at": 1602360234
+  "updated_at": 1602514734
 }

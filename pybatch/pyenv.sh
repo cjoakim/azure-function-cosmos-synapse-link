@@ -2,14 +2,11 @@
 
 # Bash script to create, populate, and activate the python virtual environment
 # for this project with pyenv.
-# Chris Joakim, Microsoft, 2020/10/10
-#
-# See https://realpython.com/intro-to-pyenv/
-# See https://github.com/pyenv/pyenv
+# Chris Joakim, 2020/10/12
 
 # These are the only two values that need to change between projects:
-venv_name="MfgBatch"
-python_version="3.7.9"
+venv_name="slbatch"
+python_version="3.8.6"  # 3.7.9
 
 display_help() {
     echo "script options:"
@@ -24,6 +21,7 @@ activate() {
 
 create() {
     echo '=== creating virtualenv '$venv_name
+    rm .python-version
     pyenv virtualenv -f $python_version $venv_name
 
     echo '=== python version'
