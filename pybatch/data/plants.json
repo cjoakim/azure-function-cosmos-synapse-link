@@ -720,14 +720,15 @@
       "plant_name": "High_Point",
       "postal_cd": "27263",
       "products": [
-        "Product_81",
-        "Component_8",
-        "Product_59",
-        "Component_23",
-        "Component_34"
+        "Component_5",
+        "Component_38",
+        "Component_22",
+        "Product_22",
+        "Component_98",
+        "Product_40"
       ],
       "state_abbrv": "NC",
-      "updated_at": 1602352426
+      "updated_at": 1602522757
     },
     {
       "active_ind": "active",
@@ -2809,5 +2810,5 @@
       "updated_at": 1602352426
     }
   ],
-  "updated_at": 1602514734
+  "updated_at": 1602522757
 }
