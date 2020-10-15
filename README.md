@@ -307,3 +307,12 @@ The last response JSON will look like this; 2 updates in about 1 second.
 
 **These upserted documents in CosmosDB will automatically flow into Synapse via Synapse Link**.
 
+## Other Links
+
+- https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks
+
+```
+
+%%pyspark
+myNewPythonDataFrame = spark.sql("SELECT * FROM mydataframetable")
+```

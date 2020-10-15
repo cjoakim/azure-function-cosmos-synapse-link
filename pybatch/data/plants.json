@@ -412,14 +412,15 @@
       "plant_name": "Enka",
       "postal_cd": "28728",
       "products": [
-        "Component_6",
-        "Component_12",
-        "Component_50",
-        "Component_78",
-        "Component_69"
+        "Product_58",
+        "Component_59",
+        "Component_76",
+        "Component_97",
+        "Product_45",
+        "Component_83"
       ],
       "state_abbrv": "NC",
-      "updated_at": 1602352426
+      "updated_at": 1602768400
     },
     {
       "active_ind": "active",
@@ -815,7 +816,7 @@
       "updated_at": 1602352426
     },
     {
-      "active_ind": "active",
+      "active_ind": "closed",
       "city_name": "Shallotte",
       "country_cd": "US",
       "doctype": "plant",
@@ -840,7 +841,7 @@
         "Product_71"
       ],
       "state_abbrv": "NC",
-      "updated_at": 1602352426
+      "updated_at": 1602768400
     },
     {
       "active_ind": "active",
@@ -917,14 +918,15 @@
       "plant_name": "Traphill",
       "postal_cd": "28685",
       "products": [
-        "Product_55",
-        "Component_24",
-        "Product_49",
+        "Component_35",
         "Component_76",
-        "Product_86"
+        "Component_17",
+        "Component_13",
+        "Product_61",
+        "Component_75"
       ],
       "state_abbrv": "NC",
-      "updated_at": 1602352426
+      "updated_at": 1602764814
     },
     {
       "active_ind": "active",
@@ -1087,14 +1089,15 @@
       "plant_name": "Salley",
       "postal_cd": "29137",
       "products": [
-        "Component_94",
+        "Component_47",
+        "Product_7",
+        "Component_43",
         "Component_89",
-        "Product_48",
-        "Component_78",
-        "Component_20"
+        "Product_32",
+        "Component_34"
       ],
       "state_abbrv": "SC",
-      "updated_at": 1602352426
+      "updated_at": 1602764814
     },
     {
       "active_ind": "active",
@@ -1340,17 +1343,18 @@
       "plant_name": "Furman",
       "postal_cd": "29921",
       "products": [
-        "Product_74",
-        "Product_13",
-        "Product_59",
-        "Product_82",
-        "Component_45"
+        "Component_95",
+        "Component_90",
+        "Component_15",
+        "Product_56",
+        "Component_88",
+        "Component_13"
       ],
       "state_abbrv": "SC",
-      "updated_at": 1602352426
+      "updated_at": 1602764753
     },
     {
-      "active_ind": "active",
+      "active_ind": "closed",
       "city_name": "Spartanburg",
       "country_cd": "US",
       "doctype": "plant",
@@ -1375,7 +1379,7 @@
         "Component_98"
       ],
       "state_abbrv": "SC",
-      "updated_at": 1602352426
+      "updated_at": 1602765168
     },
     {
       "active_ind": "active",
@@ -1648,14 +1652,15 @@
       "plant_name": "Saint_George",
       "postal_cd": "29477",
       "products": [
-        "Product_1",
-        "Product_25",
-        "Component_74",
-        "Component_71",
-        "Component_37"
+        "Product_57",
+        "Product_41",
+        "Product_39",
+        "Component_60",
+        "Component_42",
+        "Component_18"
       ],
       "state_abbrv": "SC",
-      "updated_at": 1602352426
+      "updated_at": 1602764814
     },
     {
       "active_ind": "active",
@@ -1985,14 +1990,15 @@
       "plant_name": "Apex",
       "postal_cd": "27523",
       "products": [
-        "Component_26",
-        "Product_99",
-        "Component_10",
-        "Product_27",
-        "Component_86"
+        "Product_54",
+        "Component_23",
+        "Product_4",
+        "Product_70",
+        "Component_93",
+        "Product_89"
       ],
       "state_abbrv": "NC",
-      "updated_at": 1602352426
+      "updated_at": 1602768400
     },
     {
       "active_ind": "closed",
@@ -2464,14 +2470,15 @@
       "plant_name": "Belvidere",
       "postal_cd": "27919",
       "products": [
-        "Product_56",
-        "Component_23",
+        "Component_52",
+        "Component_63",
+        "Product_65",
+        "Component_96",
         "Component_8",
-        "Product_7",
-        "Product_42"
+        "Component_61"
       ],
       "state_abbrv": "NC",
-      "updated_at": 1602352426
+      "updated_at": 1602764814
     },
     {
       "active_ind": "active",
@@ -2492,14 +2499,15 @@
       "plant_name": "Kannapolis",
       "postal_cd": "28083",
       "products": [
-        "Product_97",
-        "Product_4",
-        "Product_87",
-        "Product_76",
-        "Product_50"
+        "Product_39",
+        "Product_74",
+        "Product_23",
+        "Component_77",
+        "Product_75",
+        "Component_38"
       ],
       "state_abbrv": "NC",
-      "updated_at": 1602352426
+      "updated_at": 1602688456
     },
     {
       "active_ind": "active",
@@ -2810,5 +2818,5 @@
       "updated_at": 1602352426
     }
   ],
-  "updated_at": 1602522757
+  "updated_at": 1602768400
 }
